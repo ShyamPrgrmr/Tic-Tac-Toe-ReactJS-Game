@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shyamprgrmr.github.io/tic-tac-toe/static/css/main.6d76315f.chunk.css",
+    "main.js": "/shyamprgrmr.github.io/tic-tac-toe/static/js/main.1cad7db1.chunk.js",
+    "main.js.map": "/shyamprgrmr.github.io/tic-tac-toe/static/js/main.1cad7db1.chunk.js.map",
+    "runtime-main.js": "/shyamprgrmr.github.io/tic-tac-toe/static/js/runtime-main.a3777a1c.js",
+    "runtime-main.js.map": "/shyamprgrmr.github.io/tic-tac-toe/static/js/runtime-main.a3777a1c.js.map",
+    "static/js/2.ae2b174e.chunk.js": "/shyamprgrmr.github.io/tic-tac-toe/static/js/2.ae2b174e.chunk.js",
+    "static/js/2.ae2b174e.chunk.js.map": "/shyamprgrmr.github.io/tic-tac-toe/static/js/2.ae2b174e.chunk.js.map",
+    "index.html": "/shyamprgrmr.github.io/tic-tac-toe/index.html",
+    "precache-manifest.f0027b67072ee73f651dd512ed58b213.js": "/shyamprgrmr.github.io/tic-tac-toe/precache-manifest.f0027b67072ee73f651dd512ed58b213.js",
+    "service-worker.js": "/shyamprgrmr.github.io/tic-tac-toe/service-worker.js",
+    "static/css/main.6d76315f.chunk.css.map": "/shyamprgrmr.github.io/tic-tac-toe/static/css/main.6d76315f.chunk.css.map",
+    "static/js/2.ae2b174e.chunk.js.LICENSE.txt": "/shyamprgrmr.github.io/tic-tac-toe/static/js/2.ae2b174e.chunk.js.LICENSE.txt",
+    "static/media/icons.svg": "/shyamprgrmr.github.io/tic-tac-toe/static/media/icons.3b334a8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3777a1c.js",
+    "static/js/2.ae2b174e.chunk.js",
+    "static/css/main.6d76315f.chunk.css",
+    "static/js/main.1cad7db1.chunk.js"
+  ]
+}
